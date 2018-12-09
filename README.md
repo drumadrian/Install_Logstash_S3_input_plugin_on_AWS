@@ -5,7 +5,7 @@ Use this to Install the Logstash S3 input plugin on and AWS EC2 Instance
 
 ### YouTube tutorial:
 
-[![youTube](https://raw.githubusercontent.com/drumadrian/Install_Logstash_S3_input_plugin_on_AWS/master/thumb.png)](https://youtu.be/4dPiCaS_pZA)
+[![youTube](https://raw.githubusercontent.com/drumadrian/Install_Logstash_S3_input_plugin_on_AWS/master/thumb.png)](https://youtu.be/3GJXrZp5hVU)
 
 
 
